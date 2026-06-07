@@ -6,6 +6,4 @@ My ~~coding~~ life sits between formal political theory, computational social sc
 
 I mostly use Julia, Python, Lean, and R.
 
-I like code that exposes structure: preference profiles as data, voting rules as functions, institutions as mechanisms, concepts as types, simulations as arguments, and visualizations as cognitive scaffolding.
-
 Outside code, I am usually ~~(having a beer)~~ reading political theory, philosophy of science, cybernetics, or mathematics. 
