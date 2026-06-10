@@ -4,6 +4,6 @@ I'm a Brazilian political scientist and PhD candidate at UC Irvine trying to tur
 
 My ~~coding~~ life sits between formal political theory, computational social science, and complex systems. I build things around collective decision-making, dissent, institutions, agent-based models, survey data, and the strange region where clean mathematical definitions meet messy political behavior.
 
-I mostly use Julia, Python, Lean, and R.
+I mostly use Julia and Python, but dabble with Lean.
 
 Outside code, I am usually ~~(having a beer)~~ reading political theory, philosophy of science, cybernetics, or mathematics. 
